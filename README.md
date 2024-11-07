@@ -4,18 +4,7 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDR4cXVvZ2RmMjRlNXpmMHBqMjRtdW9sd3k5MWZxM2RsNmdwYmQ1OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jdPMeyv9rn0hZHh8n9/giphy.gif" width="200"/>
 </div>
 
----
-
-### :woman_technologist: About Me :
-
-  I am a Native Android Developer  from Uzbekistan.
-
-- 🔭 I’m currently working on myself
-- 🌱 I’m currently learning Android programming
-- 💬 Ask me about programming
-- 📫 How to reach me: humooyunjon@gmail.com
-
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/humoyunjon/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -24,7 +13,10 @@
   </a>
   <a href="https://x.com/humooyunjon">
     <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge"/>
-  </a>
+</div>
+
+<div id="badges" align="center">
+</a>
   <a href="https://instagram.com/humooyunjon">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
@@ -32,6 +24,21 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
+
+<div id="header" align="center">
+ <img src="https://komarev.com/ghpvc/?username=humooyunjon&style=flat-square&color=blue" alt=""/>
+</div>
+
+---
+
+### :man_technologist: About Me :
+
+  I am a Native Android Developer  from Uzbekistan.
+
+- 🔭 I’m currently working on nowhere
+- 🌱 I’m currently learning Android programming
+- 💬 Ask me about programming
+- 📫 How to reach me: humooyunjon@gmail.com
 
 ---
 
